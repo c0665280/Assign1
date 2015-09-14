@@ -18,5 +18,22 @@ public class Assign1 {
         // TODO code application logic here
         System.out.println("Hello World!");
     }
-    
+    /***********************
+     * Assignment 1
+     * Job Posting
+     * http://www.indeed.ca/cmp/THEMESOFT/jobs/Hadoop-Developer-cb30d666fd9ad352?sjdu=vQIlM60yK_PwYat7ToXhkzk2QN2pmLXdt1fL2hqmWLqBIzoECv0bpUjQYG_UFUz9bSTwJaBGzFM4efr6vV63Og
+     * Hadoop Developer - Themesoft, Missisauga
+     * 
+     * J2EE  https://en.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition
+     * 
+     * Hadoop  https://en.wikipedia.org/wiki/Apache_Hadoop
+     * 
+     * Cloudera  https://en.wikipedia.org/wiki/Cloudera
+     * 
+     * Toronto Salary 
+     * Vancouver Salary
+     * Waterloo Salary 
+     * 
+     * 
+    ***********************/
 }
