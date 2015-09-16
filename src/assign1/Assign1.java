@@ -39,9 +39,9 @@ public class Assign1 {
      * SQL  https://en.wikipedia.org/wiki/SQL
      
      
-     * Toronto Salary 75k
-     * Vancouver Salary 86k
-     * Waterloo Salary 75k
+     * Toronto Salary $475k
+     * Vancouver Salary $86k
+     * Waterloo Salary $75k
      * 
      * 
     ***********************/
